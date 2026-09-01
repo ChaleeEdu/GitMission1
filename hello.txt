@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello World! från master
+=======
+Hello World! från feature-text branch
+>>>>>>> feature-text
 Ändrat text lite
 Ändring i filen från branch feature-text
